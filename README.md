@@ -22,6 +22,7 @@ This applies to directory names, file names, and file contents.
 
 After that, update these specific cases:
 
+- `..github`: Update to `.github`. 
 - `CMakeLists.txt`: Update the `project()` block with your real `VERSION`and `DESCRIPTION`.
 - `docs/doxygen/Doxyfile`: Update `PROJECT_NAME`, `PROJECT_BRIEF`, and `PROJECT_LOGO`.
 - `docs/doxygen/DoxygenLayout.xml`: Update with your info and page as you need.
