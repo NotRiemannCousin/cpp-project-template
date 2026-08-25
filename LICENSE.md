@@ -1,6 +1,4 @@
-MIT License
-
-Copyright (c) 2026 (Not) Riemann's Cousin
+Copyright (c) 2026 NotRiemannCousin
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
