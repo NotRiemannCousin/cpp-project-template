@@ -31,3 +31,5 @@ After that, update these specific cases:
 `CMakeLists.txt`.
 - Source files: Place your headers in `include/YourLibraryName/` and sources in `src/YourLibraryName/`, and update the
 `target_sources` block accordingly.
+
+the `benchmark` folder isn't mandatory.
